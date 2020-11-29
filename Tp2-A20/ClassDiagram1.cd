@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Tp2_A20.Discussion" Collapsed="true">
+    <Position X="15.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAIAAAAgAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Discussion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tp2_A20.Commentaire" Collapsed="true">
+    <Position X="13.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAABAAAABAEAAAAAAAAAAAAEAAgAJAAAAAAAAg=</HashCode>
+      <FileName>Commentaire.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tp2_A20.Utilisateur" Collapsed="true">
+    <Position X="10.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Utilisateur.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
